@@ -1,0 +1,21 @@
+{   "login":[
+    {
+      "name":"Harsh",
+      "password":"abc123@"
+    }
+  ],
+    "posts": [
+      {
+        "id": 4,
+        "Name": "KFC",
+        "Rating": "3.5",
+        "email": "KFC@gmail.com"
+      },
+      {
+        "Name": "halidram",
+        "Rating": "9",
+        "email": "mankarharsh32@gmail.com",
+        "id": 5
+      }
+    ]
+  }
